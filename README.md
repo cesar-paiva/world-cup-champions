@@ -1,6 +1,8 @@
 # World Cup Champions
 
-<img src="https://github.com/cesar-paiva/world-cup-champions/blob/master/world-cup-champion.gif?raw=true" height="500">
+<p align="center">
+  <img src="https://github.com/cesar-paiva/world-cup-champions/blob/master/world-cup-champion.gif?raw=true" height="500">
+</p>
 
 ### Description
 

@@ -11,6 +11,7 @@ World Cup Champions is an iOS app that uses UITableViewController to display the
 ## Requirements
 - Xcode 10.2.1
 - iOS 11
+- Swift 4.2
 
 ## How to use
 Just download source code and unzip the downloaded folder and open project in Xcode.
